@@ -1,2 +1,15 @@
-# NEST-AUTH-API
-THIS PROJECT IS IN NEST JS WITH TYPEORM &amp;CLASS TRANSFORMER , CLASS VALIDATOR OR MANY MORE 
+## Nest.js authentication with passport,jwt,bcrypt and typeorm
+
+## Installation
+npm install
+
+## Running the app
+
+### development
+npm run start
+
+### watch mode
+npm run start:dev
+
+### production mode
+npm run start:prod
